@@ -1,0 +1,47 @@
+60 arrarum.
+
+own example being taken hom Geometry. But still its
+connexion with the original question is not formal, but
+
+material; for we assume,
+All A is B;
+
+All Ο is A;
+Therefore, All Ο is B.
+And this conclusion, from material grounds, we know to
+be false. We also know (materially again) that the minor
+promise is truc; and all that is logical in the process is
+the consequent decision that the major must be false3
+and hence by the principle of contradiction that the
+original question is true.
+
+But one step only is wanting, to convert these material
+consequences into formal ones. We have in the συλλο-
+γισμὸς ἐξ ὁμολογίας clearly the germ oi the Conditional
+Syllogisms of Theophrastus. lt needs but to commenoe
+with the original hypothesiS, not as a mere dialectic
+convention, but as a Proposition having its own objectiva
+salue, and we have at once alogical argumentation, not
+in categorical form, but equally valid‚ to which the Aris·
+totelian specimen is related merely as a prosyllogism
+supporting one of the promises. This done, no great
+sagacity is required to see that the prosyllogism may in
+thie, as in any other case,be omitted or not, according to
+the material character oi the premise which it supports.
+
+To the ἀπαγωγὴ εἰς abactam may in like manner be
+traced the origin of the Disjunctive Syllogism. The
+most natural proceeding in this case is to state the two
+contradictory Propositions as Alternatives, one of them
+being disproved by a prosyllogism.
+
+Eitlrcr some A is not B, or all A is B ; in which case
+
+All O is A;
+
+Therefore All (l is B.
+This conclusion being manifestly falso, wc havc no
+choico but to admit the other alternative. The pro-
+
+ 
+

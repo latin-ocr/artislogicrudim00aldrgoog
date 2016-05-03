@@ -1,0 +1,55 @@
+Anal. Pr.
+11. 24. 1.
+Rhet. Ι.
+2. 19.
+
+82 Anrrs noorcru
+
+3. Ecemplum ; (Aristoteli Inductio Oratortar)
+ubi quod ponitur de singulari note, assumitur de
+
+Ρ The complete example comprises both an imperfect in-
+duction and a syllogism, in the following form:
+
+Pisistratus aimed at tyranny,
+Pisistratus asked for a guard,
+(Therefore) All who ask for a guard aim at tyranny ;
+Dionysius asks for a guard,
+(Therefore) Dionysius aims at tyranny.
+
+The Example differs from the Induction in two respects.
+lst, Induction proves the universal from a complete enume-
+ration of the individuals; Example selects single cases. 2dly,
+Induction stops at the universal; Example infers syllogistically
+a conclusion regarding another individual. The Example is
+defined, An. Pr. ii. 24. 1. “proving the major of the middle
+bya term resembling the minor.” It is thus distinguished
+from Induction, which is said to prove the major of the middle
+by the minor. Anal. Pr. i. 23. 2. The definition has reference
+to the conclusion of the inductive portion of the Exemplo:
+“ aiming at tyranny,” being the major; “ asking for a guard,'’
+the middle ; “ DionysiuS,” the minor; ‘⁴ Pisistratus,” the ὅμοιον.
+
+The Example is sometimes loosely called, “ reasoning from
+Analopy.” See Mill's Logic, b. iii. ch. 20. The latter term pro
+perly signifiesareasoningfounded notonabsolute resemblance,
+but on resemblance of Retico. Such is the παραβολὴ mentioned
+by Aristode, Rhet. ii. 20. 4; the relation of a rulerto astate
+being similar to that of a pilot to a ship. In the same way it
+might be argued that obedienee is due from a colony to the
+mother-country, as from a child to a parent. Neither the
+analogy, nor the example proper, have any loytcat force.
+Logic recognises none but formal consequence. That there
+is none such in these, may be seen by putting them into
+
+symbolical form. Thus; A and B are both X, A is also Y,
+
+· therefore B is Y. (Example.) Or; Ais to B as O to D, Ais X,
+
+therefore G is X. (Analogy.) Their moral force may vary,
+according to circumstances from zero to moral certainty. In
+short, they are morehel inferences‚ and, as such, have place in
+Rhetoric‚ but not in Logic. See further, Introduction, p. xiii.
+
+ 
+

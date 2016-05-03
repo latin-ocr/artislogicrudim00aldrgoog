@@ -1,0 +1,47 @@
+RUD1MENTA·.
+
+Pro exposita Disjunctiva
+dio conditionaliter
+
+Si C tum non D
+D nonC
+
+non C tum D
+non D C
+
+ᾗ. 3. Suruunsr Syllogismus quidam Hypothe-
+ticus redundans, alio nomine Dilemmai, quia ple-
+
+iOf the word Dilemma, various etymologies have been
+proposed3 1. a choice of alternatives offered to an adversary ;
+2. a double premise assumed (λῆμμα); 3. a not very probable
+one given by Keckermann‚ “a dtr λαμβάνεσθαι, quia utrinque
+capit et constringit adversarium contra quem adducitur.'’ The
+first seems to be adopted by Aldrich, and is perhaps supported
+by Cassiodorus, Expos. in Ps. 138, 9. “Dilemma, quod fit ex
+duabus propositionibus pluribusve, ex quibus quicquid electum
+fuerit, contrarium esse non dubium est.'’ df: Victorinus in
+1 Rhet. Cic. 86. But whatever be the origin of the word, it
+was certainly employed as synonymous with the complecto of
+Cicero, (de Inv. 1. 29.) This is expressly stated by Servius,
+(on AEn. ii. 675.) who is Ι believe, the oldest extent writer in
+whom the word is found. In this sense it may be defined,
+(omitting the adversam, as belonging rather to Rhetoric or
+Dialectic than Logia) “A syllogism‚ having a conditional
+major promise with more than one antecedent, and a dis-
+junctive minor.‘' Its different forms may be thus exhibited:
+
+I. Simple Constructive.
+IfAisB,GisD; andifEisF‚OisD;
+But either Α is Β, or Ε is F ;
+
+O is D.
+
+II. Oomplex Constructive.
+
+IfAisB‚GisD; andifEisF‚GisH;
+But eitherAis B, orEisF;
+EitherOisDorGisH.
+
+ 
+

@@ -1,0 +1,38 @@
+76 unns nomon
+
+cedens designat, esse in Reductione convertendam:
+S simpliciter; P per accidens. M transponendus
+θεεθ praemissan K reductionem fieri per impos-
+sibile, i. e. pro praemissa, cujus symbolo adhaeret,
+sumendam esse Conclusionis contradictoriam
+Quibus ex praescripto factis, colligitur in prima
+conclusio vel expositae eadem, vel eam inferens,
+vel praemissae contradictoria, ut in exemplo.
+
+cEs Nullum A θεῖ Β
+Ar Omne O θεῖ B: Ergo
+E NullumO est A.
+
+ad
+
+cn, Nullum B θεῖ A
+
+lA Omne O θεῖ B: Ergo
+rEnt Nullum C est A.
+
+dlc Aliquod B θεῖ A .
+Am Omne B θεῖ C: Ergo
+Ic AliquodO θεῖ A.
+
+ad
+
+[ΖΑ Omne B est C
+rI AliquodA est B: Ergo
+I AliquodA est O.
+
+⁸ Whence the lines,
+S vult simpliciter verti3 P vero per acci:
+M vult transponi; O [K] per impossibile duci.
+
+ 
+

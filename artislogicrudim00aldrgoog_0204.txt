@@ -1,0 +1,43 @@
+:trunsum :31
+
+the proof may be given in Categorioal Syllogisms In
+others, it is far more naturally exhibited in the hypo·
+thetical form. The assumption of a hypothetioal premise
+will alwayspresentthereasoninginalogioallyvalid,th0ugh
+not always in the most natural, form; and it is frequently
+the only materially allowable assumption in oases where
+the given antecedent and consequent have both terms
+distinet. E. g. A is B, therefore Gis D. We may
+supply, If A is B, O is D; but to determine the truth of
+the assumed proposition, whether it be hypothetioal or
+oategorioal, does not fall within the provinoe of the
+Logioian.
+
+Among these material, and therefore extra-logical,
+Consequenoes, are to be olassed those whioh Reid
+adduoes as oases for which Logio does not provide5
+e. g. “Alexander was the son of Philip,” therefore
+“Philip was the father of Alexander ;'' “A is greater
+than B,” therefore “B is less than A.” In both these it
+is our material knowledge of the relations “father and
+son,’' “greater and lesS,'’ that enables us to make the
+inferenoe. ’
+
+Another of Reid's examples is the following: “A is
+equal to B, and B is equal to C, therefore A is equal
+to 02³ This reasoning is elliptioal, and therefore, us a
+stands, material ; though owing to the suppressed premise
+being sels-evident, its defioienoy is apt to be overlooked.
+Stated in logioal form, the syllogism runs thus: ⁴
+
+Things that are equal to the same are equal to each other;
+A and C are equal to the same,
+Therefore A and C are equal to eaeh other⁸.
+
+Another example of the same kind is that sometimes
+oalled reasoning ιι fortiori. E. g. “A is greater than B,
+
+¹ Hamiltou on Reid, p. 702.
+
+ 
+

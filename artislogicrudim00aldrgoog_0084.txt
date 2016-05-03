@@ -1,0 +1,49 @@
+nonnarum. 51
+
+Nam l. sit vera E0, puto Nullum A est B: Ergo
+(cum uterque terminus distribuatur) quodvis A
+differt a quovis B. Ergo vicissim: Ergo Nullum
+B est A. 2. Sit vera 1: Ergo falsa est ejus Con·
+
+It should be observed‚ that the old Logicisns‚ following
+Boethius, maintain, that in conversion by contraposition‚ as
+wellas 111 the others, the quality should remain unchsnged.
+Consequently the converse of “All A is B’' is “All not B is
+not A,” and of “Some A is not B,'' “Some not B is not
+not A.” It is simpler, however, to convert A into E and 0
+into Ι, (“ No not B is A;” “Some not B is A,’') as is done
+byWallis and Abp. Whately; and before Boethius byApuleius
+and (lapella, who notice the conversim, but do not give ita
+name. The principle of this conversion may be found in
+Aristotle,'1'op.ii. 8. 1. though he does not employ it for
+logical purposes.
+
+θ Sit coro Β. This is the proof given by Theophrastus and
+Eudemus. (Alexander, Scholia, p. 148. 11119.) Aristotle proves
+it by the method called ἕκθεσις, 1. e. hythe cohibitioo of an
+individual instance, (ἐκτιθέναι asponae sacrut; whence a syl-
+logism with singular promises is called Syllopasmua copo
+11111111.) Thus, No A is Β, therefore No B is A, for if not,
+Some 1111111111 Β, say O, is A. Then O is both A and Β,
+and therefore it will not he true that No A is B; which was
+the original proposition. Aristotlc does not assume the con-
+version of Ito prove that of Β, which would be arguing in
+schole. 11011111111101111111, see Hamilton on Reid, p. 196.
+
+Alexander himself offers a third proof by syllogism in
+the first figure. No A is B, therefore No Β 11 Α; 101 suppose
+“Some B is A,” and “ No A is B‚” Some B is not B.
+
+Having proved the conversios of E, those of A and I will
+follow 110111 it. ‘¹ All A is B, therefore Some Β 11 A ;” or else
+No B is A, and therefore (by conversion) No A is B; whereas
+we assumed All A is Β. And again, Some A is B, therefore
+Some B is A; 01 else No B is A, and therefore No A is B.
+
+For these proofs, the only assumption necessary is the
+principle 01 namnidon.
+
+n 2
+
+ 
+

@@ -1,0 +1,49 @@
+APPENDIX.
+
+’ . Noru G.
+
+¹ON ARISTOLE'S HYPOTHETIOAL SYLLOGISMS.
+
+, ΤΗΑΤ the συλλογισμοὶ ἔξ ὑποθέσεως of Aristotle are not
+⁴ identical with those which, since the time of Theophrastus
+
+. and Eudemus, have been received in Logic as Hypothe-
+
+tical Syllogisms, is now generally admitted ⁵. The word·
+Hypothetical is never by Aristotle opposed to Cate-
+gorical, but to ostensive (carneaden and he remarks that
+the Sylloyistic portion of the reasoning in Hypothetical
+
+Syllogisms is ostensive, and requires no reduction3 but
+’ that the determination of the original question is not
+affected hy Syllogism at all, and cannot be exhibited in
+syllogistic form. The meaning of this may bc clearly
+explained by examples.
+
+Of the Hypothetical Syllogism, two principal kinds are
+mentioned by Aristotle. One is the ἀπαγωγὴ εἰς τὸ attiae:
+the otherisaSyllogism ofwhiohthe conclusiveness depende
+entirely on agreement between two contending partica,
+and which is therefore chiefly serviceable in dialectic
+disputation. The latter may be exhibited as follows.
+
+The original question being to prove that some A is
+not B3 the contending parties agree to the hypothesis,
+that if some A is not 0, it is not B. The reasoning
+proceeds thus:
+
+No X is O;
+All X is A; (συλλογισμὸς ἐξ ὑποθέσεως.)
+Theresore‚ Some A is not Ο.
+
+And then, iu consequence of tlte previous agreement, but
+
+³ We must except M. St. Hilaire, who professes to ffisoovcr the ordinary
+
+Hypotheticals in Auel. Prior, i. 44. l. But the text os Aristotle will hardly
+warrant the assertion. ’
+
+¹³ See Anal. Pr. i. 23. 2.
+
+ 
+

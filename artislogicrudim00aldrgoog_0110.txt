@@ -1,0 +1,39 @@
+RUDIMENTA.
+
+bAr Omne A est Β
+Olc Aliquod Onon est B: Ergo
+Ο Aliquod Cnon est A.
+
+ad
+
+aar Omne A est B
+bA Omne C est A: Ergo
+rA Omne C est B!
+
+§. 7. Rnnuerrours ostensivae validitas sic ostendi-
+tur. Ex praemissis reducendi, per conversionem
+imperatam, necessario colliguntur praemissae re-
+ducti: atque ex iis, per figuram primam, conclusio
+reducti: quae vel ipsa conclusio reducendi erit, vel
+per illativam conversionem fiet.
+
+Reductionis per Impossibile validitas sic osten-
+ditur. Quoniam praemissae ex hypothesi sunt
+semper verae, ergo contradictoria praemissae nun-
+quam vera: ergo contradictoria conclusionis nun·
+quam veral : (nam has simul veras esse demon·
+
+fArchbishop Whately gives an ostensive seduction of
+Baroko and Bokardo to Ferio and Darii, by convorting the
+major premise by contraposition. Logic, b. ii. c. 3. ἓ, t.
+
+Β Since a false conclusion cannot be drawn without at least
+one false premise, see An. Pr. ii. 2. 1. But in the present
+syllogism, one premise is given true, being one of those of the
+original syllogism the other, therefore, is false, which is the
+contradictory of the original conclusion. The syllogism cd
+impossibile will not always be in Barbara ; though it is so in
+the reduction of Buroko und Bokardo.
+
+ 
+

@@ -1,0 +1,46 @@
+ARTIS LOGICAE
+
+v. g. Si posita vel C vel D
+Subsumatur
+Sed C ergo non D
+D nonC
+
+non Ο ergo D .
+non D C
+
+only of its members can be true. And Aquinas maintains
+that any disjunctive proposition in which this condition is
+not observed, is false. On this supposition all the four infer-
+ences given by Aldrich are valid. But it may be questioned
+whether the incompatibility of the members appears in the
+form of every disjunctive proposition. We moy hoppen to know
+that two altematives cannot be true together, so that the-
+affirmation of the second necessitates the denial of the first,
+and the affirmation of the first the deniel of the second;
+but this, as Boethius observes is a material, not aformal
+consequence, whether it be stated in the hypotheticel or dis-
+junctive form. It must be ellowed that the examples some
+times adduced on this side of the question have not been very·
+happily chosen. It sounds oddly enough to stete a known
+truth as a possible falsehood‚ as in the instance, “Bellum
+Trejcaum cecinit eel Homerus vel Virpc'lius.'' But other and
+more naturel specimens have been given; e. g. “Aet olim
+Trcja fuit, eut historic de bello Trojano est mere fabule.’'
+The case is still clearer when both members of the dis·
+, junctive are negative, as in the example given by Boethius,
+“ si enim quis dieat, aut non est album aut non est nigrum,
+sive elbum non esse assumpserit, non necesse erit esse vel
+non esse nigrum; sive nigrum non esse assumpserit, ut sit
+vel non sit album, nullam faciet necessitatem.'’ On this
+supposition only two of the above syllogisms are valid which
+may be reduced to hypotheticals as follows:
+
+Constructive. Destructive.
+IfAis not B, G is D. IfAis not Β, G is D.
+But A is not B. But 0 is not D.
+nonu. nAmR
+
+For a further account, see Wallis‚ Log. Thes. 2,
+
+ 
+

@@ -1,0 +1,36 @@
+ARTIS LOGICAE
+
+I.
+
+bAr, Omne B est A
+, dA Omne C est B: Ergo
+rA Omne C est A.
+
+cE NullumB est A
+. ΖΑ, Omne C est B: Ergo
+rEnt NullumC est A.
+
+dA Omne B est A
+· rI AliquodC est B: Ergo
+Ι Aliquod C est A.
+
+fE NullumB est A
+rI AliquodC est B: Ergo
+Ο Aliquod Onon est A.
+
+A Omne B est A
+A Omne C est B: Ergo
+Ι AliquodC est A.
+
+Ε NullumB est A
+A Omne C est B: Ergo
+O Aliquod Onon est A.
+
+ll.
+
+cllo Nullum A est B
+A Omne C est B: Ergo
+rE Nullum O ⁴est A.
+
+ 
+

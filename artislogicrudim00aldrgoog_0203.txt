@@ -1,0 +1,42 @@
+At'l’uxntx.
+
+Nora C.
+
+ON MATERIAL AND FORMAL CONSEQUENCE. ⁸
+
+A Marcum consequence is defined by Aldrich to bc
+one in which the conclusion follows from the premises
+solely by the force of the terme. This in fact means,
+from some understood Proposition or Propositions, con-
+necting the terma, by the addition of which the mind is
+enabled to reduce the Consequeuce to logical form. This
+is easily seen, both in Aldrich’s example, “Homo est
+animal, Ergo est vivens,'’ and in the rather more com·
+plicated instance given by Sandemon, “Socrates est
+risibilis, ergo, Aliquis homo θεῖ rationalis.'‘ The latter,
+when the necessary conditione are supplied, is expanded
+into two syllogisms.
+
+Omne risibile est rationale;
+Socrates cst risibilis,
+
+Erg0, Socrates θεῖ rationalis.
+Socrates θεῖ homo,
+
+Ergo, Aliquis homo est rationalis.
+
+The failure therefore of a Material Consequence takes ·
+place when no such connection exista between the terms
+as will warrant us in supplying the premises required:
+i. e. when one or more of the premises so supplied would
+be false. But to determine this point is obviously
+beyond the province of the Logician. For this reason,
+Material Consequence is rightly excluded from Logic.
+Moreover, even where true premises can be added,
+and the Consequence legitimately deduced, we cannot, Α
+except from knowledge of the matter, determine into
+what form the reasoning will naturally fall. In some
+cases, as in the example above quoted from Sandcrson‚
+
+ 
+

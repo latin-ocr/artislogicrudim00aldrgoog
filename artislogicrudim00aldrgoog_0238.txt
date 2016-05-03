@@ -1,0 +1,50 @@
+sensuum. 65
+
+It is not denied that there are passages in Aristotle
+which may seem to oountenance this interpretation3 but
+there are others so palpably inconsistent with it that
+we are compelled toseek fora new'explanation of the
+former.
+
+In the first place, Aristotle distinctly condemns the
+assumptiones Definitions as a Petilio Principia In the
+second place, he says that Demonstratiou proceeds fiom
+amiotus, and cites as a specimen of the latter, ‘⁶ If equals
+be taken fiom equaIS, the remainders are equal ¹¹.” These
+axioma, he says, are commento many classes of objects3
+but, in any single Soience, need 'only be assumed to an
+. extent commensurate with the object-matter of that
+7 Science. Τὴθ above axiom‚ for example, is true of
+
+' other things besides Geometrical Magnitudes but it is ‘
+
+sufficient for the Geometer to assume it as true of these ²
+only.
+
+Now if au axiom of this kind be the major premise in
+a Demonstration‚ it is manifest that its predicate will
+
+’ also be the predicate of the Conclusion3 and that the
+
+logical form of that conclusion will be, not “ All triangles
+are figures having their angles equal to two right angles‚”
+but, “ Triangles and figures having their angles equal to
+two right angles are equal to each other.”
+
+The immediate Syllogism from which this proposition
+is proved by Euclid, may be logically stated as follows:
+
+“’ Magnitudes equal to the adjacent exterior and interior
+, angles os a triangle are equal to each other ;
+The three interior angles and two right angles are equal to
+the adjacent exterior and interior angles;
+
+· η · Therefore, they are equal to each other.”
+
+⁵ Top. viii. 13. 2.
+¹¹ Auel. Post. i. 7. 1. i. 10. 2.
+
+*s
+
+ 
+

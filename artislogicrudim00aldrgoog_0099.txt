@@ -1,0 +1,42 @@
+66 naris Locren
+
+Medium, quod curn utroque extremo comparatur,
+vel 1. subjicitur majori et tribuitur minori, et fit
+figora primo ; vel 2. tribuitur utrique, et fit secanda·
+vel 3. subjicitur utrique, et fit tertio; vel 4. tribuitur
+majori et subjicitur minori, et fit quarta. Quae
+omnia sequenti Schemate declarantur. ·
+
+Dispositio trium terminorum, seilicet mcry'orie
+, Α. medii B. minoris C. in Figura.
+
+l. 2 3 4.
+
+B. A. A. B. B. A. A. B.
+C. B. C. B. Β. C. Β. C.
+C. A. C. A. C. A. C. A. .
+
+negative minor premises, and thus offend against a special
+rule of the first figure; but this is checked by a counter·
+balancing transgression. For by simply converting Ο, we
+alter the distribution of the termS, so as to avoid an illicit
+process. Thus,
+
+AllB is A (sap) Some B is A (fris)
+No C isB (esna) No C isB (eam)
+Therefore Some A is notG (ol Therefore SomeAis notO (o)
+
+Where to infer “ Some C is Where to inser “ Some C is
+not A,” would involve an illicit not A, '‘ would involve an illicit
+process of the major term. process of the major term.
+
+The invention of these indirect moods is attributed to
+Theophrastus ; not, however, on the authority of Apuleius, as
+asserted by M. St. Hilaire, but on that of Alexander, Schol.
+p. 153, a. 47. But they are clearly recognised by Aristotle;
+the last two in Anal. Pr. i. 7. l. the first three in Anal. Pr. ii.
+1. 2. The passage in Apuleius does not referto the indicat,
+but to the indefinite, syllogism.
+
+ 
+
